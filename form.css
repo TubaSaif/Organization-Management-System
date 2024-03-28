@@ -1,0 +1,8 @@
+body{
+ background-color: rgb(255, 0, 119);
+}
+
+input:focus {
+  outline: 0;
+  border-color: #bd8200;
+}
